@@ -1,0 +1,10 @@
+Problema 1
+i) Implemented in algorithms.py
+ii) Implemented in algorithms.py
+iii) Implemented in algorithms.py
+iv) Implemented in algorithms.py
+v) Implemented in algorithms.py
+vi) Implemented in algorithms.py
+vii) Implemented in algorithms.py
+Problema 2
+i) Implemented in algorithms.py

@@ -1,0 +1,26 @@
+Problem 1:
+i) Implemented in algorithm.py
+ii) Implemented in algorithm.py
+iii) Implemented in algorith.py
+
+Problem 2:
+i) Implemented in algorithm.py
+ii) 
+    1) gcd: 1
+    2) gcd: 1
+    3) gcd: 1.0
+
+Problem 3:
+i) In 3.1.jpg and 3.2.jpg
+ii) Implemented in algorithm.py
+iii) 
+    1) gcd: 1, s: -2458818059, t: 41727024964, number of steps: 25
+    2) gcd: 1, s: -4807526976, t: 7778742049, number of steps: 51
+    3) gcd: 1.0, s: 1.0, t: -2.0, number of steps: 4
+
+Problem 4:
+i) Implemented in algorithm.py
+ii) Implemented in algorithm.py
+
+Problem 5:
+La parella de números ha de ser de la cadena de Fibonnacci. Ja que per a fer el calcul ha d'anar tirant enrrere tota la seqüencia fins trobar l'1.
